@@ -1,2 +1,2 @@
-[1](1.png)
+![Zrzut ekranu aplikacji](1.png)
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
